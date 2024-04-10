@@ -85,5 +85,13 @@ span {
     padding-left: 10px;
 }
 
+.heart:hover,
+.comment:hover,
+.dm:hover {
+    transform: scale(1.5);
+    background-color: bisque;
+}
+
+
 
 
