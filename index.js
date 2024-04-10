@@ -43,7 +43,7 @@ for (let i = 0; i < posts.length; i++) {
         <img class="main-picture" src="${posts[i].post}" width="100%" alt="Author picture">
 
         <section class="social">
-            <img id="heart" src="images/icon-heart.png" width="25" alt="Icon heart">
+            <img class="heart" src="images/icon-heart.png" width="25" alt="Icon heart">
             <img class="comment" src="images/icon-comment.png" width="25" alt="Icon comment">
             <img class="dm" src="images/icon-dm.png" width="25" alt="Icon dm">
         </section>
